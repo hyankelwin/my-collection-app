@@ -1,16 +1,16 @@
 <h1 align="center">
 <br>
-  <img src="assets/icon.png" alt="MyCollection" width="120">
+  <img src="MyCollection/assets/icon.png" alt="MyCollection" width="120">
 <br>
 <br>
 </h1>
 
 <p align="center">
-  <img src="assets/screenshots/screenshot_1.jpeg" width="150"/>
-  <img src="assets/screenshots/screenshot_2.jpeg" width="150"/>
-  <img src="assets/screenshots/screenshot_3.jpeg" width="150"/> 
-  <img src="assets/screenshots/screenshot_4.jpeg" width="150"/>
-  <img src="assets/screenshots/screenshot_5.jpeg" width="150"/>
+  <img src="MyCollection/assets/screenshots/screenshot_1.png" width="150"/>
+  <img src="MyCollection/assets/screenshots/screenshot_2.png" width="150"/>
+  <img src="MyCollection/assets/screenshots/screenshot_3.png" width="150"/> 
+  <img src="MyCollection/assets/screenshots/screenshot_4.png" width="150"/>
+  <img src="MyCollection/assets/screenshots/screenshot_5.png" width="150"/>
 </p>
 
 <!-- What is: -->
@@ -58,13 +58,13 @@ more specific settings, I recommend this link
 2. Clone repository:
 
    ```sh
-   $ git clone git://github.com/hyankelwin/MyCollection.git
+   $ git clone git://github.com/hyankelwin/my-collection-app.git
    ```
 
 3. Go to project folder:
 
    ```sh
-   $ cd marvel
+   $ cd MyCollection
    ```
 
 4. Install all dependences:
